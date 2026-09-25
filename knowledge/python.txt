@@ -1,0 +1,35 @@
+Python Variables
+
+A variable stores a value.
+Variables can store strings, integers, floats, and other objects.
+
+Python Loops
+
+A for loop repeats code over a sequence.
+A while loop repeats code while a condition is true.
+Loops are useful when we need to execute code repeatedly.
+
+Inheritance
+
+Inheritance allows a child class to inherit methods and attributes from a parent class.
+It promotes code reuse and allows classes to extend existing functionality.
+
+Polymorphism
+
+Polymorphism allows different classes to implement the same method differently.
+It allows the same interface to work with different types of objects.
+
+Encapsulation
+
+Encapsulation hides internal implementation details.
+It protects data and controls how objects interact with their internal state.
+
+Python Functions
+
+A function is a reusable block of code.
+Functions help organize programs into smaller pieces.
+
+Python Classes
+
+A class is a blueprint for creating objects.
+Classes contain attributes and methods.

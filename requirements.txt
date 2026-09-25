@@ -1,0 +1,51 @@
+✔ Basic Chatbot
+        ↓
+✔ Memory
+        ↓
+✔ Prompt Manager
+        ↓
+⭐ Context Manager
+        ↓
+⭐ Model Manager
+        ↓
+⭐ RAG
+        ↓
+⭐ Long-term Memory
+        ↓
+⭐ Tool Calling
+        ↓
+⭐ Agent
+        ↓
+⭐ GUI/Web App 
+
+
+
+AI-ChatBot/
+
+chatbot/
+│
+├── chatbot.py
+├── client.py
+├── memory.py
+├── context_manager.py
+│
+├── profile_manager.py      ⭐
+├── memory_extractor.py     ⭐
+├── summary_manager.py      ⭐
+├── tool_manager.py
+├── rag_manager.py
+│
+├── prompt_manager.py
+│
+├── prompts/
+│
+├── models.py
+│
+└── commands.py
+
+data/
+│
+├── chats.json
+├── profile.json
+├── summary.json
+└── embeddings/
